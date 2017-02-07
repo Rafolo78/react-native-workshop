@@ -1,0 +1,15 @@
+{
+    "extends": "airbnb",
+    "rules": {
+      "quote-props": 0,
+      "arrow-body-style": 0,
+      "react/no-did-mount-set-state": 1,
+      "react/prefer-stateless-function": 0,
+      "no-else-return": 0,
+      "semi" : [2, "always"],
+      "max-len": [2, 120, 2],
+      "react/jsx-quotes": 0,
+      "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+      "jsx-quotes": [2, "prefer-double"]
+    }
+}
